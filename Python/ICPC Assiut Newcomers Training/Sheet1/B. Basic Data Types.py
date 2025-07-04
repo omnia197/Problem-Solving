@@ -1,0 +1,11 @@
+x = int(input())                 
+y = int(input()) 
+ch = input().strip() 
+d = float(input())
+dd = float(input())                    
+
+print(x)
+print(y)
+print(ch)
+print(d)
+print(dd)

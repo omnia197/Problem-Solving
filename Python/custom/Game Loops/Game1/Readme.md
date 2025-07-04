@@ -2,6 +2,7 @@
 
 Presenting to you a simple platformer-style game built using **Pygame** and `gif_pygame`.  
 It is a small space-themed game where you control a spaceship using the arrow keys. Your goal is to move around the screen, avoid falling meteors, and survive long enough for a special golden star to appear. Once the star shows up, if your spaceship touches it, you win the game. But be careful—if you crash into any meteor, the game ends! The game has a moving space background to make it feel like you're flying through space.
+
 ---
 
 ## Game Features
